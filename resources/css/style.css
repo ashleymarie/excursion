@@ -1,13 +1,13 @@
 body {
   background-color: black;
   font-family: Verdana;
+  text-align: center;
+  color: white;
 }
 
 h1 {
   font-weight: normal;
   font-size: 50px;
-  color: white;
-  text-align: center;
 }
 
 a.fancy-link {
@@ -15,10 +15,16 @@ a.fancy-link {
   font-size: 16px;
 }
 
-p {
-  text-align: center;
+h2 {
+  font-weight: 300;
+  font-size: 42px;
 }
 
-.phone-video {
-  text-align: center;
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
 }
